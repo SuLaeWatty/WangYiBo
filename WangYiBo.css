@@ -1,0 +1,59 @@
+h1{
+    color: green;
+    font-weight: bold;
+    font-style:italic;
+    font-size: 80px;
+    text-transform: capitalize;
+    text-shadow: 10px 10px 3px #d40edb ;
+    text-align: center;
+}
+p:active{
+    color: #17cccc;
+}
+p.yabo1:hover{
+    color: green;
+    font-size: 30px;
+}
+h2{
+    color: green;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+p.yabo2:hover{
+    color: rgb(1, 83, 1);
+    font-weight: bold;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    background-color:rgb(152, 248, 152) ;
+}
+abbr{
+    text-decoration: none;
+    color:#d40edb;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+p.yabo3{
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-color: rgb(245, 215, 215);
+}
+
+div.BIO{
+    height: 700px;
+    width: 300px;
+    background-color:rgb(250, 191, 191) ;
+    border: 2px dashed rgb(0, 0, 0);
+    margin: 50px auto 50px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+div.Photo{
+    margin:10px 800px 10px 850px;
+}
